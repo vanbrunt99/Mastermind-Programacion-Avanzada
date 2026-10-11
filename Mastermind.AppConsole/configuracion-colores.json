@@ -1,0 +1,13 @@
+{
+  "colores": [
+    { "codigo": "Y", "nombre": "Yellow" },
+    { "codigo": "C", "nombre": "Cyan" },
+    { "codigo": "B", "nombre": "Black" },
+    { "codigo": "P", "nombre": "Purple" },
+    { "codigo": "W", "nombre": "White" },
+    { "codigo": "K", "nombre": "Pink" },
+    { "codigo": "R", "nombre": "Red" },
+    { "codigo": "N", "nombre": "Brown" },
+    { "codigo": "G", "nombre": "Green" }
+  ]
+}
